@@ -24,6 +24,7 @@ TIMEZONES = [
     ("America/Chicago",     None,           "Server Time"),
     ("America/Denver",      None,           ""),
     ("Etc/GMT+6",           "Alberta Time", ""),   # Alberta: fixed UTC-6 all year from Nov 1, 2026
+    ("America/Los_Angeles", None,           ""),
     ("Australia/Sydney",    None,           ""),   # AEST/AEDT, observes DST
 ]
 TITLE = "🕒 Server Clocks"
